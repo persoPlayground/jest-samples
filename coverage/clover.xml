@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1534017275046" clover="3.2.0">
+  <project timestamp="1534017275046" name="All files">
+    <metrics statements="15" coveredstatements="15" conditionals="2" coveredconditionals="2" methods="11" coveredmethods="10" elements="28" coveredelements="27" complexity="0" loc="15" ncloc="15" packages="3" files="4" classes="4">
+      <package name="src">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="setupTests.js" path="C:\Users\The Dhouibis\Desktop\Udemy\React - Mastering Test Driven Development\giftsgiver\src\setupTests.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="4" count="3" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="9"/>
+        <file name="App.js" path="C:\Users\The Dhouibis\Desktop\Udemy\React - Mastering Test Driven Development\giftsgiver\src\components\App.js">
+          <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
+          <line num="12" count="4" type="stmt"/>
+          <line num="13" count="4" type="stmt"/>
+          <line num="14" count="4" type="stmt"/>
+          <line num="16" count="4" type="stmt"/>
+          <line num="17" count="4" type="stmt"/>
+          <line num="21" count="1" type="stmt"/>
+          <line num="22" count="1" type="stmt"/>
+          <line num="25" count="10" type="stmt"/>
+          <line num="31" count="4" type="stmt"/>
+        </file>
+        <file name="Gift.js" path="C:\Users\The Dhouibis\Desktop\Udemy\React - Mastering Test Driven Development\giftsgiver\src\components\Gift.js">
+          <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+          <line num="11" count="1" type="stmt"/>
+          <line num="14" count="1" type="stmt"/>
+          <line num="17" count="3" type="stmt"/>
+          <line num="45" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.helpers">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <file name="index.js" path="C:\Users\The Dhouibis\Desktop\Udemy\React - Mastering Test Driven Development\giftsgiver\src\helpers\index.js">
+          <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+          <line num="1" count="6" type="cond" truecount="2" falsecount="0"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
